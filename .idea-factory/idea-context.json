@@ -1,0 +1,13 @@
+{
+  "ideaId": "IDEA-162",
+  "title": "Fleet Signals Lab",
+  "status": "Internal Tool",
+  "readiness": 0,
+  "github": "https://github.com/pauljump/fleet-signals-lab",
+  "directory": "fleet-signals-lab",
+  "relatedIdeas": [],
+  "lastSession": "2026-01-19T00:47:44Z",
+  "technology": [],
+  "domain": [],
+  "nextMilestone": "Start conversation to define project"
+}
