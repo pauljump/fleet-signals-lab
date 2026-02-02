@@ -1,13 +1,30 @@
 {
   "ideaId": "IDEA-162",
   "title": "Fleet Signals Lab",
-  "status": "Internal Tool",
-  "readiness": 0,
+  "status": "Design Complete",
+  "readiness": 85,
   "github": "https://github.com/pauljump/fleet-signals-lab",
   "directory": "fleet-signals-lab",
-  "relatedIdeas": [],
-  "lastSession": "2026-01-19T00:47:44Z",
-  "technology": [],
-  "domain": [],
-  "nextMilestone": "Start conversation to define project"
+  "relatedIdeas": [],
+  "lastSession": "2026-01-18T00:00:00Z",
+  "technology": [
+    "Python",
+    "FastAPI",
+    "PostgreSQL",
+    "PostGIS",
+    "Redis",
+    "TypeScript",
+    "React",
+    "Docker",
+    "Kubernetes"
+  ],
+  "domain": [
+    "Autonomous Vehicles",
+    "Fleet Management",
+    "Privacy-First Analytics",
+    "Computer Vision",
+    "Data Pipeline"
+  ],
+  "nextMilestone": "Answer final 6 questions → Generate Perfect Prompt → Obtain approval → Start MVP implementation (Week 1)",
+  "template_version": 2
 }
